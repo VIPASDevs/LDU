@@ -3,7 +3,7 @@ import time
 import sys
 import os
 sleep = time.sleep
-home = os.path.expanduser("~")
+home = os.path.expanduser("~/")
 files = []
 
 def disk_size():
