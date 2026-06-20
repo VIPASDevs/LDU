@@ -32,8 +32,8 @@ def file_list():
 
 sleep(0.5); print("\nLinux Disk Utilities, LDU")
 sleep(0.5); print("Version 01.00.00")
-sleep(0.5); print("COPYRIGHT VOID STUDIOS 2026")
-sleep(0.5); print("COVERED UNDER GNU General Public License 2.x\n\n")
+sleep(0.5); print("COPYRIGHT VOID STUDIOS 202X")
+sleep(0.5); print("3-CLAUSE BSD\n\n")
 sleep(1.5); print("[H]ELP")
 sleep(0.8); print("[E]XIT: Stops the program")
 sleep(0.5); print("[D]ISK: Shows storage capabilities [Total, Free, Used]")
